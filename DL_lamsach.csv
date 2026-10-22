@@ -1,0 +1,51 @@
+﻿Cafe_ID,Ten_quan,Dia_chi,Vi_do,Kinh_do,Gia_trung_binh,Diem_danh_gia(Rating),So_luong_review,Co_wifi,Co_o_cam_dien,Do_yen_tinh,Phu_hop_hoc_nhom,Khoang_cach_HUIT_km
+CF001,Focus Space,"49B Tân Thành, Tân Phú",10.786906,106.638381,45000,5.0,175,1,1,4,1,2.437118
+CF002,Cycle Lab Coffe,"149A Trịnh Đình Trọng, phường, Tân Phú",10.776064,106.641006,44000,4.7,180,1,1,3,1,3.65818
+CF003,K-BOX Coffee 24/24,"119 Lê Trọng Tấn, Tân Sơn Nhì",10.805926,106.628439,42000,4.0,243,1,1,4,0,0.094667
+CF004,MeetCha,"325 Lê Trọng Tấn, Tân Sơn Nhì",10.807929,106.620355,32500,5.0,81,1,1,4,1,0.932456
+CF005,The Banned Coffee,"Tân Phú, 109 Tân Thắng, Tân Sơn Nhì",10.800497,106.617573,62000,3.7,240,1,0,2,0,1.406933
+CF006,Homebrew Café,"Tân Thắng 75-77 Đường Tân Thắng, Sơn Kỳ, Tân Phú",10.804691,106.622421,49000,4.8,969,1,1,3,1,0.731673
+CF007,Hiên Nhà Coffee,"15 Đ. Vườn Lài, Phú Thọ Hòa, Tân Phú",10.78699,106.635592,42500,4.5,285,1,0,1,0,2.313811
+CF008,New Day Cafe - Eats,"53Q Đ. Kênh Tân Hóa, Tân Phú",10.765794,106.635396,39500,4.0,171,0,1,3,1,4.605254
+CF009,W Station - Study & Chill Café,"267G Trịnh Đình Trọng, Tân Phú",10.776604,106.637175,37500,4.9,180,1,1,4,1,3.469306
+CF010,THREE O'CLOCK,"202-204 Trương Vĩnh Ký, Tân Sơn Nhì",10.794536,106.631258,56000,4.5,579,1,1,4,1,1.378965
+CF011,Soco Saigon Coffee,"443 Âu Cơ, Tân Phú",10.779331,106.644838,67500,4.3,82,0,1,4,1,3.511476
+CF012,Trà Sữa Bông Trà,"389 Đ. Lũy Bán Bích, Phú Thạnh",10.774176,106.632331,42500,4.5,193,1,0,3,0,3.637017
+CF013,GABE Kafe,217 Tân Sơn Nhì,10.798243,106.631699,52000,4.2,241,1,1,4,1,0.992255
+CF014,Toji Kafe,"146 Đ. Tân Kỳ Tân Quý, Tân Sơn Nhì, Tân Phú",10.803342,106.631405,40000,4.6,124,1,1,4,1,0.469445
+CF015,WALYA COFFEE,"49a Tân Hương, Phú Thọ Hòa",10.789636,106.628051,44000,4.5,465,1,1,3,1,1.899196
+CF016,Cosmos Coffee,"136 Tân Kỳ Tân Quý, Tân Sơn Nhì",10.803436,106.631875,40000,4.3,159,1,0,4,1,0.4945
+CF017,Yên Coffee,"969B Đ. Lũy Bán Bích, Phú Thọ Hòa",10.792351,106.637566,40500,4.3,227,1,1,3,1,1.860778
+CF018,Hannie coffee,"227 Lê Niệm, Phú Thạnh",10.781268,106.621577,50000,4.7,146,1,1,4,1,2.935905
+CF019,COFFEE 24/24,"4 Tân Hương, Phú Thọ Hòa",10.792437,106.628711,50000,4.8,1956,1,1,5,1,1.586005
+CF020,RAKKYI cafe,"123 Tân Sơn Nhì, Tân Sơn Nhì, Tân Phú",10.801129,106.633333,69000,5.0,39,1,1,4,1,0.793018
+CF021,Arli - Tea & Coffee,"37 Dân Tộc, Tân Sơn Nhì",10.794143,106.635884,41500,4.9,174,1,1,4,1,1.596334
+CF022,Aquabee Study Coffee,"9/10/16 tân thành, phường hòa thạnh",10.786676,106.639476,28500,5.0,49,1,1,5,1,2.513447
+CF023,Lagom Coffee & Patisserie Lab,"318/1 Trịnh Đình Trọng, Tân Phú",10.776996,106.636935,50000,4.4,976,1,1,4,1,3.420375
+CF024,Ciao Coffee,"222 Đ. Tô Hiệu, Phú Thạnh",10.774555,106.627967,35000,4.3,41,1,0,3,1,3.575524
+CF025,Cộng Cà Phê,"khu A5 Diamond, 3 Đ. Tân Thạnh, Celadon City, Tân Sơn Nhì",10.803526,106.616929,52000,4.0,215,1,0,4,1,1.34377
+CF026,Every Half Coffee Roasters,"Celadon Tân Phú, Diamond Alnata Plus, KDC/013 Đ. Tân Thạnh, Celadon City, Tân Sơn Nhì",10.804079,106.615532,75000,4.7,237,1,1,4,1,1.478193
+CF027,TheRustCoffee,"02-03 Đường D9, Tây Thạnh",10.815123,106.62492,37500,4.0,413,1,1,4,1,1.028009
+CF028,Tiệm Cà Phê Nàng,"45 Nguyễn Cửu Đàm, Tân Sơn Nhì",10.799026,106.630261,42000,4.7,129,1,1,5,0,0.868104
+CF029,Tart Saigon,"12E Đường CN1, Phường Sơn Kỳ, Tân Phú",10.804283,106.609548,44500,4.9,172,1,1,3,1,2.119877
+CF030,CAO's Café,"Cafe de Garden, 13 Đ. Kênh Tân Hóa, P, Tân Phú",10.761155,106.635146,52000,4.3,445,1,1,3,0,5.111599
+CF031,Bankstown Coffee and Tea,"32 Đường số 27, Tân Sơn Nhì",10.804207,106.629092,38500,3.8,96,1,1,3,1,0.279038
+CF032,Sterik Café,"11/9 Thoại Ngọc Hầu, Tân Phú",10.783721,106.639397,51500,4.8,115,1,0,2,0,2.805096
+CF033,Chốn Riêng Landscape,"52/33 Thoại Ngọc Hầu, Tân Phú",10.784688,106.638428,30000,3.8,16,1,1,4,1,2.663985
+CF034,Zetta Coffee,"186 Nguyễn Cửu Đàm, Tân Sơn Nhì",10.800561,106.627598,35000,3.4,81,1,1,3,0,0.695137
+CF035,The Coffee House,141 143 Tân Sơn Nhì,10.800735,106.633016,47000,4.3,706,1,1,3,1,0.807458
+CF036,Trà sữa Búp,"11 Đ.Tân Quý, Tân Sơn Nhì",10.798834,106.619666,44000,4.7,210,1,1,4,1,1.326782
+CF037,TEAYOO,"Celadon - Tân Phú, Diamond Alnata, Tòa nhà, 3 Đ. Tân Thạnh, Celadon City, Tân Sơn Nhì",10.803632,106.614049,44000,4.7,141,1,0,3,1,1.646879
+CF038,Highlands Coffee,"Lê Trọng Tấn, 49 Lê Trọng Tấn, Tân Sơn Nhì",10.804704,106.631487,54000,4.1,414,0,1,3,1,0.367957
+CF039,Starbucks Celadon Boulevard,"Khối đế P1 Khu A5 Diamond, 3 Đ. Tân Thạnh, Celadon City, Tân Sơn Nhì",10.803598,106.613313,87000,4.7,908,1,0,5,1,1.726356
+CF040,Cà phê Momo,"8 Nguyễn Hữu Tiến, Tây Thạnh",10.808278,106.625985,31500,5.0,29,1,0,3,1,0.354007
+CF041,MV Food & Drink,"22/6 Hẻm Lê Thúc Hoạch, Phú Thọ Hòa",10.787176,106.624882,30000,4.6,408,1,0,2,0,2.21275
+CF042,MỘC 1992 CELADON,"S1.0.20, Khu Diamond Alnata, Khu đô thị/Khối đế P1/88 Đ. Tân Thạnh, Celadon City, Tân Sơn Nhì",10.80346,106.614942,50000,4.3,47,0,1,4,1,1.555907
+CF043,Dom - Coffee Capsule Thống Nhất,"239 Thống Nhất, Phú Thọ Hòa",10.791244,106.630753,47500,4.9,370,1,1,4,1,1.731819
+CF044,Phúc Long,"514 Lê Trọng Tấn, Tây Thạnh",10.810562,106.612916,57000,3.8,534,1,0,4,1,1.787247
+CF045,KATINAT,"440-440A Lê Trọng Tấn, Tây Thạnh",10.808999,106.616685,62000,3.7,839,0,0,2,0,1.3477
+CF046,SevenStars Coffee,"54 Thoại Ngọc Hầu, Tân Phú",10.783727,106.638262,46000,3.8,151,1,0,3,1,2.755636
+CF047,ÚT LẬP COFFEE & CREAM,"193-195 Tân Kỳ Tân Quý, Tân Sơn Nhì",10.803008,106.630304,37000,4.6,126,1,1,4,1,0.442179
+CF048,BALOCA Coffee & Co-working Space,"48 Đ. Bờ Bao 1, Tân Sơn Nhì",10.807177,106.620131,35000,4.2,117,1,1,2,1,0.948338
+CF049,Tiệm Cafe Tháng Bảy,"26 Đường Đô Đốc Long, Phú Thọ Hòa",10.79157,106.628157,47500,4.5,689,1,1,2,1,1.683847
+CF050,Cà phê Ông Bầu,"228 Lê Trọng Tấn, khu phố 5, Tây Thạnh",10.807086,106.624431,30500,4.2,202,1,0,3,1,0.479122
